@@ -1,0 +1,5 @@
+package: Accountkit
+import:
+- package: bitbucket.org/liamstask/goose
+  subpackages:
+  - cmd/goose

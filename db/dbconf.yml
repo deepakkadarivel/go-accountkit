@@ -1,0 +1,4 @@
+development:
+    driver: postgres
+    open: user=liam dbname=tester sslmode=disable
+    open: host=localhost port=5432 user=deepakkv dbname=development search_path=accountkit sslmode=disable
