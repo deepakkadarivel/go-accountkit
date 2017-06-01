@@ -3,6 +3,7 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../gopkg.in" />
       <root url="file://$PROJECT_DIR$/../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../recommendation-rendering-service" />
       <root url="file://$PROJECT_DIR$/../elasticsearch-spike" />
       <root url="file://$PROJECT_DIR$/../gochat" />
       <root url="file://$PROJECT_DIR$/../.idea" />
@@ -14,6 +15,7 @@
     <SOURCES>
       <root url="file://$PROJECT_DIR$/../gopkg.in" />
       <root url="file://$PROJECT_DIR$/../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../recommendation-rendering-service" />
       <root url="file://$PROJECT_DIR$/../elasticsearch-spike" />
       <root url="file://$PROJECT_DIR$/../gochat" />
       <root url="file://$PROJECT_DIR$/../.idea" />

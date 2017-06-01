@@ -1,8 +1,10 @@
-hash: acc9601bfb664bc8283b53436ac9b20ffcac00786e29b009c6edcf240a1cf8e3
-updated: 2017-05-27T14:11:54.105103491+05:30
+hash: 4c32c3926933cb6c4bc594c564c68725b073ecc75ed689647bb030781bc84402
+updated: 2017-05-27T22:51:02.614171287+05:30
 imports:
 - name: bitbucket.org/liamstask/goose
   version: 8488cc47d90c8a502b1c41a462a6d9cc8ee0a895
   subpackages:
   - cmd/goose
+- name: github.com/jinzhu/gorm
+  version: 9acaa33324bbcc78239a1c913d4f1292c12177b9
 testImports: []

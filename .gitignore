@@ -4,8 +4,6 @@ run.env
 *.log
 .idea/*
 .vscode/*
-../../.gitignore.swp
-../../.html
 gotest_output.txt
 gotest_dependencylog.txt
 .cover
