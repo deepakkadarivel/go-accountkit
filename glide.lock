@@ -1,10 +1,30 @@
-hash: 4c32c3926933cb6c4bc594c564c68725b073ecc75ed689647bb030781bc84402
-updated: 2017-05-27T22:51:02.614171287+05:30
+hash: b83d145b0221b53c7ef4e24eadc345e6c0c04052e17b502b7426be4fcc7255d1
+updated: 2017-06-01T23:11:46.054488721+05:30
 imports:
 - name: bitbucket.org/liamstask/goose
   version: 8488cc47d90c8a502b1c41a462a6d9cc8ee0a895
   subpackages:
   - cmd/goose
+- name: github.com/golang/glog
+  version: 23def4e6c14b4da8ac2ed8007337bc5eb5007998
 - name: github.com/jinzhu/gorm
   version: 9acaa33324bbcc78239a1c913d4f1292c12177b9
-testImports: []
+- name: github.com/jinzhu/inflection
+  version: 1c35d901db3da928c72a72d8458480cc9ade058f
+- name: golang.org/x/net
+  version: 3da985ce5951d99de868be4385f21ea6c2b22f24
+  subpackages:
+  - context
+testImports:
+- name: github.com/davecgh/go-spew
+  version: 04cdfd42973bb9c8589fd6a731800cf222fde1a9
+  subpackages:
+  - spew
+- name: github.com/pmezard/go-difflib
+  version: d8ed2627bdf02c080bf22230dbb337003b7aba2d
+  subpackages:
+  - difflib
+- name: github.com/stretchr/testify
+  version: e964b172ca7f4c322ee4c39ea605ff53fab44f79
+  subpackages:
+  - assert

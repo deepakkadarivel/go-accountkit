@@ -4,3 +4,4 @@ import:
   subpackages:
   - cmd/goose
 - package: github.com/jinzhu/gorm
+- package: github.com/golang/glog
